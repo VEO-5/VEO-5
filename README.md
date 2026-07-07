@@ -16,7 +16,7 @@
   <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-000?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a>
+  <a href="https://claude.ai"><img src="https://raw.githubusercontent.com/VEO-5/VEO-5/main/assets/claude.svg" width="48" height="48" alt="Claude Code" /></a>
 </p>
 
 ---
