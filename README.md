@@ -8,6 +8,15 @@
 
 ---
 
+### 👋 About Me
+
+<p align="center">
+  Building the future at <b>Postra.ai</b> — architecting AI-powered platforms with modern web & cloud technologies.
+  Passionate about systems design, developer tooling, and open source.
+</p>
+
+---
+
 ### ⚡ Tech Stack
 
 <p align="center">
