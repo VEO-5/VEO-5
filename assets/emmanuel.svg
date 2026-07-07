@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 100">
-  <rect width="440" height="100" fill="#0d1117"/>
-  <text x="10" y="20" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#d9381e" font-weight="bold">█████ █   █ █   █  ███  █   █ █   █ █████ █</text>
-  <text x="10" y="38" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#d9381e" font-weight="bold">█     ██ ██ ██ ██ █   █ ██  █ █   █ █     █</text>
-  <text x="10" y="56" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#d9381e" font-weight="bold">█████ █ █ █ █ █ █ █████ █ █ █ █   █ █████ █</text>
-  <text x="10" y="74" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#d9381e" font-weight="bold">█     █   █ █   █ █   █ █  ██ █   █ █     █</text>
-  <text x="10" y="92" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#d9381e" font-weight="bold">█████ █   █ █   █ █   █ █   █  ███  █████ █████</text>
-</svg>
