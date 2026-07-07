@@ -21,6 +21,32 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VEO-5&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VEO-5&theme=radical&hide_border=true&bg_color=0d1117&title_color=d9381e&color=d9381e" alt="Activity Graph" width="100%"/>
+</p>
+
+---
+
+### 👨‍💻 Current Focus
+
+<p align="center">
+  <b>🔭 Building:</b> AI-powered health solutions &nbsp;|&nbsp;
+  <b>🌱 Learning:</b> Advanced systems architecture &nbsp;|&nbsp;
+  <b>💡 Open to:</b> Collaborations on impactful projects
+</p>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VEO-5/VEO-5/main/dist/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VEO-5/VEO-5/main/dist/github-contribution-grid-snake.svg">
