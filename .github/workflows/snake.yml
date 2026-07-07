@@ -12,20 +12,12 @@ jobs:
       contents: write
 
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: VEO-5
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: actions/checkout@v4
-        with:
-          persist-credentials: false
-
-      - run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist/
-          git commit -m "Update snake animation" || exit 0
-          git push
+          github_token: ${{ secrets.GITHUB_TOKEN }}
