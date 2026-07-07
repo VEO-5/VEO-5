@@ -11,7 +11,7 @@
 ### 👋 About Me
 
 <p align="center">
-  Building the future at <b>Postra.ai</b> — architecting AI-powered platforms with modern web & cloud technologies.
+  Building the future at <b>Postcore AI</b> — architecting AI-powered platforms with modern web & cloud technologies.
   Passionate about systems design, developer tooling, and open source.
 </p>
 
