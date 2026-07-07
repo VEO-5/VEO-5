@@ -16,6 +16,7 @@
   <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://claude.ai"><img src="https://skillicons.dev/icons?i=claude" alt="Claude Code" /></a>
 </p>
 
 ---
