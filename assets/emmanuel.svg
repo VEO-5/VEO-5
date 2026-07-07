@@ -1,0 +1,10 @@
+<svg viewBox="0 0 420 90" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: 'Courier New', monospace; font-size: 14px; fill: #d9381e; font-weight: 700; }
+  </style>
+  <text x="0" y="16">█████ █   █ █   █  ███  █   █ █   █ █████ █    </text>
+  <text x="0" y="33">█     ██ ██ ██ ██ █   █ ██  █ █   █ █     █    </text>
+  <text x="0" y="50">█████ █ █ █ █ █ █ █████ █ █ █ █   █ █████ █    </text>
+  <text x="0" y="67">█     █   █ █   █ █   █ █  ██ █   █ █     █    </text>
+  <text x="0" y="84">█████ █   █ █   █ █   █ █   █  ███  █████ █████</text>
+</svg>
