@@ -40,7 +40,7 @@
 ### 👨‍💻 Current Focus
 
 <p align="center">
-  <b>🔭 Building:</b> AI-powered health solutions &nbsp;|&nbsp;
+  <b>🔭 Building:</b> AI-powered solutions &nbsp;|&nbsp;
   <b>🌱 Learning:</b> Advanced systems architecture &nbsp;|&nbsp;
   <b>💡 Open to:</b> Collaborations on impactful projects
 </p>
