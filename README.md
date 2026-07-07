@@ -8,15 +8,7 @@
 ║                                                              ║
 ╚════════════════════════════════════════════════════════════════╝
 
-<p align="center">
-  <i>Full-stack developer building AI-powered solutions that make a real impact.</i>
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-eromosele-046606318/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 
 ---
 
